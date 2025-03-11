@@ -62,3 +62,7 @@ This project is open source and available under the [MIT License](LICENSE).
 
 ---
 Created with ❤️ using Cursor IDE
+
+Best regards,  
+Jianny  
+[GitHub](https://github.com/jiannystein)
